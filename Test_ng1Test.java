@@ -12,7 +12,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;			
 
-public class Test_ngTest {
+public class Test_ng1Test {
 	 WebDriver driver;
 	    
 	    @BeforeTest
