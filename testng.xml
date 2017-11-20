@@ -5,6 +5,7 @@
   <test name="test">
   <classes>
   <class name="MTestProj.MavenTestProj.Test_ngTest"/>
+    <class name="MTestProj.MavenTestProj.Test_ng1Test"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
